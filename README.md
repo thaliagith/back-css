@@ -12,7 +12,8 @@
         <p>Check out some iconic moments of Playboi Carti.</p>
         
         <div class="playboi-carti">
-            <img src="carti 3.jpg" alt="Carti Photo 3" srcset="" width="70" height="90">
+        ![carti1](https://github.com/user-attachments/assets/f982244e-28f2-4fff-b1b1-bd2258cc4861)
+
             <img src="carti 4.jpg" alt="Carti Photo 4" srcset="" width ="70" height="90">
             
         </div>
