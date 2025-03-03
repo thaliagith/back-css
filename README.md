@@ -12,9 +12,9 @@
         <p>Check out some iconic moments of Playboi Carti.</p>
         
         <div class="playboi-carti">
-            <img src="playboi-carti-image1.jpg" alt="Playboi Carti 1">
-            <img src="playboi-carti-image2.jpg" alt="Playboi Carti 2">
-            <img src="playboi-carti-image3.jpg" alt="Playboi Carti 3">
+            <img src="carti 3.jpg" alt="Carti Photo 3" srcset="" width="70" height="90">
+            <img src="carti 4.jpg" alt="Carti Photo 4" srcset="" width ="70" height="90">
+            
         </div>
     </div>
 </body>
